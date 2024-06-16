@@ -11,3 +11,4 @@ seaborn==0.13.2
 optuna==3.6.1
 optuna-integration==3.6.0
 catboost==1.2.5
+imblearn==0.0
